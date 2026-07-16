@@ -1,8 +1,8 @@
-# Hi, I'm Oliver 👋
+# Hi, I'm Oliver
 
-I build software where **robotics**, **edge AI**, and **connected hardware** meet at [Wendy Labs](https://github.com/wendylabsinc).
+Currently I build software where **robotics**, **edge AI**, and **connected hardware** meet at [Wendy Labs](https://github.com/wendylabsinc).
 
-I'm especially interested in trading, game theory, computer vision, and turning real-world hardware into useful products.
+In the past I've worked a lot on crypto sniping, options trading and modeling, and mathematical game modeling.
 
 ## What I'm working on
 
