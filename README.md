@@ -2,7 +2,7 @@
 
 Currently I build software where **robotics**, **edge AI**, and **connected hardware** meet at [Wendy Labs](https://github.com/wendylabsinc).
 
-In the past I've worked a lot on crypto sniping, options trading and modeling, and mathematical game modeling.
+In the past I've worked a lot on crypto sniping, options trading/modeling, and mathematical game modeling.
 
 ## What I'm working on
 
@@ -17,7 +17,6 @@ In the past I've worked a lot on crypto sniping, options trading and modeling, a
 - [**Helmet Camera Access**](https://github.com/OliverTaylor246/helmet) — Camera access and computer-vision tooling for a helmet-detection system.
 - [**DHT22 Demo**](https://github.com/OliverTaylor246/dht22-demo) — A WendyOS temperature and humidity demo with Python, Swift, Rust, C++, and TypeScript implementations.
 
-## Find me around GitHub
+## Currently find me
 
 - Building with [Wendy Labs](https://github.com/wendylabsinc)
-- Making games with [Dicey Games](https://github.com/Dicey-Games)
